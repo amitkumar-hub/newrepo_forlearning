@@ -3,8 +3,4 @@ irritating
 h s,hfewh
 haa
 heee
-<<<<<<< HEAD
-hgrughgdnv
-=======
 learning
->>>>>>> feature/learnpr
